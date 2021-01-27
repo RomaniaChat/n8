@@ -27,10 +27,10 @@ export default props => {
 
       <div id="content">
         <img src={picUrl} />
-        <h1 className="name">Nathan Rajlich</h1>
-        <h2 className="handle">@TooTallNate</h2>
+        <h1 className="name">Romania Chat</h1>
+        <h2 className="handle">@RomaniaChat</h2>
         <div id="icons">
-          <a href="https://github.com/TooTallNate">
+          <a href="https://github.com/RomaniaChat">
             <GitHub className="github" />
           </a>
           <a href="https://twitter.com/TooTallNate">
