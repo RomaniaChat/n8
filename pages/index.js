@@ -13,7 +13,7 @@ export default props => {
   return (
     <div id="root">
       <Head>
-        <title>n8.io</title>
+        <title>RomaniaChat</title>
         <meta
           name="viewport"
           content="initial-scale=1.0, width=device-width, user-scalable=no"
@@ -33,16 +33,16 @@ export default props => {
           <a href="https://github.com/RomaniaChat">
             <GitHub className="github" />
           </a>
-          <a href="https://twitter.com/TooTallNate">
+          <a href="https://twitter.com/ShowChat">
             <Twitter className="twitter" />
           </a>
-          <a href="https://www.linkedin.com/in/nathan-rajlich-aaa17233">
+          <a href="https://www.linkedin.com/in/showchat">
             <LinkedIn className="linkedin" />
           </a>
-          <a href="https://instagram.com/nathanrajlich_">
+          <a href="https://instagram.com/showchat">
             <Instagram className="instagram" />
           </a>
-          <a href="https://www.npmjs.com/~tootallnate">
+          <a href="https://www.npmjs.com/~romaniachat">
             <NPM className="npm" />
           </a>
         </div>
