@@ -7,8 +7,7 @@ import Twitter from '../components/icons/twitter';
 import LinkedIn from '../components/icons/linkedin';
 import Instagram from '../components/icons/instagram';
 
-const picUrl = gravatar('RomaniaChat
-', { s: 500, protocol: 'https' });
+const picUrl = gravatar('romaniachat', { s: 500, protocol: 'https' });
 
 export default props => {
   return (
