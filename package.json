@@ -1,20 +1,20 @@
 {
-  "name": "n8.io",
-  "version": "4.0.0",
+  "name": "about.baiatrau.tk",
+  "version": "5.0.0",
   "description": "Nate's landing page",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TooTallNate/n8.io.git"
+    "url": "git+https://github.com/RomaniaChat/n8.git"
   },
   "author": "Nathan Rajlich <n@n8.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TooTallNate/n8.io/issues"
+    "url": "https://github.com/RomaniaChat/n8/issues"
   },
   "engines": {
     "node": "12.x"
   },
-  "homepage": "https://github.com/TooTallNate/n8.io#readme",
+  "homepage": "https://github.com/RomaniaChat/n8#readme",
   "scripts": {
     "build": "next build"
   },
